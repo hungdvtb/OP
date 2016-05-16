@@ -43,8 +43,7 @@
              <host><![CDATA[g0s.arrowhitech.net]]></host>
                     <username><![CDATA[aht2621_ie]]></username>
                     <password><![CDATA[0z8yirnnid]]></password>
-                    <dbname><![CDATA[aht2621_ie]]></dbname>
-                
+                    <dbname><![CDATA[aht2621_ie]]></dbname>               
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>
                     <type><![CDATA[pdo_mysql]]></type>
